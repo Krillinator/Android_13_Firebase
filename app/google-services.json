@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435329889144",
+    "project_id": "lektion-13",
+    "storage_bucket": "lektion-13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435329889144:android:f474abfd792617bc8a4e8d",
+        "android_client_info": {
+          "package_name": "com.krillinator.lektion_13_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrm-2s_kYPW38UV2hxCOHMQlYtiSrEyn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
